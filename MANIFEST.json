@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "payload_count": 67,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 145,
+      "sha256": "b5ca33158fba625263c57f239b2cadde8205eb7320af0c5f3a922273a2a48dfa"
+    },
+    {
+      "path": ".python-version",
+      "bytes": 5,
+      "sha256": "7b55f8e67b5623c4bef3fa691288da9437d79d3aba156de48d481db32ac7d16d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6874,
+      "sha256": "e1f9e7b5d168edba85f43faef2ceb7aacf82bc1c5c5e153b7aeb9694be09f378"
+    },
+    {
+      "path": "docs/ENGINEERING-LESSONS.md",
+      "bytes": 1942,
+      "sha256": "3e0cebd3bfe8f43f6647fd599348dd60ac287152379a03c8c0a17eb6595cd124"
+    },
+    {
+      "path": "docs/HISTORICAL-UI.md",
+      "bytes": 2418,
+      "sha256": "1f993e4649538e7ba996b38e26032fc4ec9cb1629bbb2f214a0e4abf721382f0"
+    },
+    {
+      "path": "docs/LIMITATIONS.md",
+      "bytes": 4559,
+      "sha256": "512b25013816454b50b4f8f1d3b4b235a76f372381dc0c331490898758f7ea28"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "bytes": 4580,
+      "sha256": "0c5fc5148745cff73c342e98480d4ed85a7fbbe50fd7e9d7dc5a3094605b4d41"
+    },
+    {
+      "path": "docs/diagrams/loss-boundaries.svg",
+      "bytes": 3389,
+      "sha256": "a46911b4b4c9b76a22cc3da1f224bddbf766fb586861f0e308c57924930d7e2e"
+    },
+    {
+      "path": "docs/diagrams/runtime.svg",
+      "bytes": 3773,
+      "sha256": "993ffa2a3760548cb83f8bf4ff4dd0510e3ed935d8e5d728e8b7563c731d852a"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 933,
+      "sha256": "8fd2fd5a44f37c668ef24ca366c4befc8770be58117e34c9e5827da0e6a38be8"
+    },
+    {
+      "path": "src/suria/__init__.py",
+      "bytes": 83,
+      "sha256": "80ee26e509bb0decc7b6bc7bf7114484608757b14a45e1e2623548bb49e44dbc"
+    },
+    {
+      "path": "src/suria/app.py",
+      "bytes": 1484,
+      "sha256": "807f245e9bcbd60aa2ec5bdd6f3135bdd618cd22098be9d80f897ec477ff3cad"
+    },
+    {
+      "path": "src/suria/components/inverters.csv",
+      "bytes": 2277,
+      "sha256": "98c008eef3c5bc92629ef43f043157f344dba06cd240b479e50461985f0dfb1c"
+    },
+    {
+      "path": "src/suria/components/library.json",
+      "bytes": 18259,
+      "sha256": "a557cc4d09a451224dd176ef144b22a2b8197250c8859c1a5634fcd212f46a1f"
+    },
+    {
+      "path": "src/suria/components/modules.csv",
+      "bytes": 1735,
+      "sha256": "d1b7e020c94882a225c70afe1ece2a79322743340e3383fd343f25c9dd337ec5"
+    },
+    {
+      "path": "src/suria/domain/__init__.py",
+      "bytes": 5117,
+      "sha256": "0e66e38eeb4b48e8dab671e14bf667d9fb7c85e41633294798f7e9f938790772"
+    },
+    {
+      "path": "src/suria/domain/components.py",
+      "bytes": 4218,
+      "sha256": "db5a8fbf28a1631ca10ffd5a9cb70bd65790047943948e20a88210fecfcc4dc4"
+    },
+    {
+      "path": "src/suria/domain/converter.py",
+      "bytes": 8691,
+      "sha256": "180b9c37389b5cc8f0e281b65675c21f02a23347af52ce30d3197c074eb6238f"
+    },
+    {
+      "path": "src/suria/domain/frame.py",
+      "bytes": 3015,
+      "sha256": "47aa98a5ce6ca3d92e33786998df052f5ece12a16be292f94a8625358b9800a6"
+    },
+    {
+      "path": "src/suria/domain/simulation_input.py",
+      "bytes": 3349,
+      "sha256": "4f1bb3fdc9d50e835fd9345f53439f7f344ba2ffc2ec22fca19a6e30acd56a89"
+    },
+    {
+      "path": "src/suria/electrical.py",
+      "bytes": 10854,
+      "sha256": "d380c07685ccc27d4ba12abc254fe090597e88a1e6464f78f568ef3f7613f872"
+    },
+    {
+      "path": "src/suria/engine/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/suria/engine/loss_tree.py",
+      "bytes": 5994,
+      "sha256": "3229a5b1a9a0b73bbcb56c16f7aad2d1b71e4d755680ae942da269ce6ee7ef07"
+    },
+    {
+      "path": "src/suria/financials.py",
+      "bytes": 2599,
+      "sha256": "2a25c09394707563ac57188a084878a3bf96c4098c126f512bd84fa522be2144"
+    },
+    {
+      "path": "src/suria/geocode.py",
+      "bytes": 1442,
+      "sha256": "ea542760e7c4dbc123f3ae890f31fd37103653e978afc01d3740e5cf83a0d71e"
+    },
+    {
+      "path": "src/suria/importers.py",
+      "bytes": 3288,
+      "sha256": "b0832ddc34bdc84a92ce6a27c192eb68744a3992b5e9e4d8d28d3f8e547312a8"
+    },
+    {
+      "path": "src/suria/layout.py",
+      "bytes": 6558,
+      "sha256": "3c61eb68e08db609a0b65db6b28344f02476c53e26e534ea1742245e32a47f5d"
+    },
+    {
+      "path": "src/suria/models.py",
+      "bytes": 507,
+      "sha256": "ad77ef7bdb4147644f06292135aee6cf09964a94c961a180037abc88069e1eb3"
+    },
+    {
+      "path": "src/suria/nem.py",
+      "bytes": 5827,
+      "sha256": "4e1ff84b834c004b85a314b1869bc5b25135f49941e50f266f94bd66eadf785e"
+    },
+    {
+      "path": "src/suria/reporter/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/suria/reporter/render.py",
+      "bytes": 32371,
+      "sha256": "8a7f182b6075baf6b1de58534fcbee88e2d9f8403ff4f8c7a9f4108cfa8cb4a8"
+    },
+    {
+      "path": "src/suria/simulate.py",
+      "bytes": 21269,
+      "sha256": "bc9a1af09efbbcb9cd5fc096234473727d2250b2ccca2ca5aa435a993ad6aac6"
+    },
+    {
+      "path": "src/suria/storage.py",
+      "bytes": 2560,
+      "sha256": "56054bfc94281ca942dc335117d350f56b8422f49a1814f7ccf75eac171a7372"
+    },
+    {
+      "path": "src/suria/timezone.py",
+      "bytes": 698,
+      "sha256": "30590ea93e08b2d02702471ec575c8bc68bfb3534ca02e1b61289c13ce20838e"
+    },
+    {
+      "path": "src/suria/ui/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/suria/ui/components_loader.py",
+      "bytes": 420,
+      "sha256": "94b3f18797428c8aa3d2da18879333092970315d8e39c859b2ba79876307818f"
+    },
+    {
+      "path": "src/suria/ui/layout_utils.py",
+      "bytes": 1683,
+      "sha256": "b2b7be9e8f40ce6532b8dee555d2756fe85857b7ed8bc688dcd51a49f77935ae"
+    },
+    {
+      "path": "src/suria/ui/pages/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/suria/ui/pages/step1_settings.py",
+      "bytes": 17205,
+      "sha256": "017fae594cb2756b6e9d8c092c39d839b4e1ace991b1e5601cd2ad127ead2b02"
+    },
+    {
+      "path": "src/suria/ui/pages/step2_map.py",
+      "bytes": 23657,
+      "sha256": "e4847753b494e2042783a5577e3d582f1bcac961f285fb2c43ff5e4e832daa9f"
+    },
+    {
+      "path": "src/suria/ui/pages/step3_results.py",
+      "bytes": 12689,
+      "sha256": "675e83c3694798ba270e1a353b7e47aca6e079c1503d3aad81e11f02dd2bf987"
+    },
+    {
+      "path": "src/suria/ui/panels/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/suria/ui/panels/array_config.py",
+      "bytes": 12809,
+      "sha256": "d53f74f4aff6d2c55ad9ec72562edac10b8ea6676d5f6f0a471ecaf2ee77c4fc"
+    },
+    {
+      "path": "src/suria/ui/panels/component_picker.py",
+      "bytes": 2695,
+      "sha256": "e03cbdbe460818acc9765d1e5c462d1ad0e11f0d67d395f7e46328b033daddef"
+    },
+    {
+      "path": "src/suria/ui/panels/keepout.py",
+      "bytes": 3053,
+      "sha256": "82e7bcd76ec30c5431c4f12fd00fa62761176fa478a266b40acd78cd0d673a74"
+    },
+    {
+      "path": "src/suria/ui/sim_utils.py",
+      "bytes": 5100,
+      "sha256": "b95b41ce3be949b7b26c7c9939b868bb8b23d7f3c5c580d750f482eb910f7d45"
+    },
+    {
+      "path": "src/suria/ui/state.py",
+      "bytes": 1333,
+      "sha256": "749868689494b5fda864664c12743e63ebb1067288a15a2e80bbc5121b9f934a"
+    },
+    {
+      "path": "src/suria/ui/style.py",
+      "bytes": 4027,
+      "sha256": "16c5fcf191a4f8fb40b61df44e749738e7639c944cfe86bf95471e855fb5e58f"
+    },
+    {
+      "path": "src/suria/ui/widgets/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/suria/ui/widgets/step_indicator.py",
+      "bytes": 551,
+      "sha256": "f3274bc1cd03d21eb93076fec4b44e1a8e23a828e91bd7d6ad6f64c957a2ac47"
+    },
+    {
+      "path": "tests/test_domain_converter.py",
+      "bytes": 3474,
+      "sha256": "4fa36f761cb053e664d02b334c5a475755161729703266ef20cedb52ae063e68"
+    },
+    {
+      "path": "tests/test_electrical.py",
+      "bytes": 7399,
+      "sha256": "acd249e4180fb47ddfd35aab9d28d06d395d76d3c2d82ec7306b895b4f1df0b0"
+    },
+    {
+      "path": "tests/test_financials.py",
+      "bytes": 2413,
+      "sha256": "d7c0ffe2d205bd3d5997d252dedac9527ecc585ac79e435c955ec6380dd8f0af"
+    },
+    {
+      "path": "tests/test_importers.py",
+      "bytes": 4131,
+      "sha256": "2fc1985995faf454511341908539cf8288c3bb7766dc9be3ee0a86eb3ae4ba0f"
+    },
+    {
+      "path": "tests/test_layout.py",
+      "bytes": 6447,
+      "sha256": "c8c36aef54dc89e7293470321c96ebdca0fc44681cbb30553abc14e55a174d8f"
+    },
+    {
+      "path": "tests/test_loss_tree.py",
+      "bytes": 1495,
+      "sha256": "623479376151c2703966b2a931ecef3845834f8ee7a7f0866ff54f5f90672e7c"
+    },
+    {
+      "path": "tests/test_nem.py",
+      "bytes": 5849,
+      "sha256": "a2f5fd0187782a9d4571331c40f2225a8f59397c8b2690661ce8cc4c3afb7a9a"
+    },
+    {
+      "path": "tests/test_offline_portfolio.py",
+      "bytes": 2453,
+      "sha256": "a4e011057163c13fb7c6b58caeb57088e3a98cb38188d4d4dcaac98199b0cc48"
+    },
+    {
+      "path": "tests/test_render.py",
+      "bytes": 8898,
+      "sha256": "36db13b68ac321a15e6d7ecdfcd7494a3f5c9f69cb03132fdf419448c41d7852"
+    },
+    {
+      "path": "tests/test_shading.py",
+      "bytes": 575,
+      "sha256": "76b85cc632d010b41cc3e3be012258eac9bb656ecb1273205235bd392582c141"
+    },
+    {
+      "path": "tests/test_simulate.py",
+      "bytes": 6441,
+      "sha256": "57cbf1e377d96a03db26c68dd4fc21deb442bb350d3ca79afb3da755cc53eec8"
+    },
+    {
+      "path": "tests/test_simulation_input.py",
+      "bytes": 2145,
+      "sha256": "624db620f2bd560440d84d5359f1e511cb85a83f6549eac007640863d91274c3"
+    },
+    {
+      "path": "tests/test_timezone.py",
+      "bytes": 623,
+      "sha256": "4ba495ef19e4a72f1ddeabd9d83adea0f8eb3a0d9ca560670055569388e2ff09"
+    },
+    {
+      "path": "tools/build_wheel.py",
+      "bytes": 622,
+      "sha256": "d2ee8c00b51b9faa85ee315bb53832347bb2beadc5670e1984862425458f4142"
+    },
+    {
+      "path": "tools/offline_demo.py",
+      "bytes": 4743,
+      "sha256": "df774e0fe0b283fcb84d125d832958da58d587329fd3ba55444ea2f432a82e05"
+    },
+    {
+      "path": "tools/offline_pytest.py",
+      "bytes": 983,
+      "sha256": "e0d3df951bc2cd0b7f44335a34565e85e4e0d452590001fc7988e60109ec9185"
+    },
+    {
+      "path": "uv.lock",
+      "bytes": 454365,
+      "sha256": "2510bc052ca79a6350082675371c4235c672f8a272c1f11d6dbe5905532a4a7f"
+    }
+  ],
+  "manifest_note": "Payload hashes exclude this manifest to avoid self-reference."
+}

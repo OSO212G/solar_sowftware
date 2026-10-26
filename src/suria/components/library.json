@@ -1,0 +1,728 @@
+{
+  "modules": {
+    "Aiko 650W": {
+      "name": "Aiko 650W",
+      "manufacturer": "Aiko",
+      "model": "AIKO-G650-MCH72Dw",
+      "p_max": 650.0,
+      "voc": 54.0,
+      "isc": 15.06,
+      "vmp": 45.3,
+      "imp": 14.35,
+      "temp_coeff_pmax": -0.26,
+      "temp_coeff_voc": -0.22,
+      "temp_coeff_isc": 0.05,
+      "noct": 43.0,
+      "length": 2.382,
+      "width": 1.134,
+      "n_s": 72,
+      "bifacial": true,
+      "bifaciality": 0.7,
+      "cec_name": ""
+    },
+    "Trina 320W": {
+      "name": "Trina 320W",
+      "manufacturer": "Trina Solar",
+      "model": "TSM-320PD14",
+      "p_max": 320.0,
+      "voc": 45.6,
+      "isc": 9.02,
+      "vmp": 36.8,
+      "imp": 8.7,
+      "temp_coeff_pmax": -0.41,
+      "temp_coeff_voc": -0.32,
+      "temp_coeff_isc": 0.05,
+      "noct": 45.0,
+      "length": 1.956,
+      "width": 0.992,
+      "n_s": 72,
+      "bifacial": false,
+      "bifaciality": 0.0,
+      "cec_name": "Trina_Solar_TSM_320PD14"
+    },
+    "Jinko 550W": {
+      "name": "Jinko 550W",
+      "manufacturer": "JinkoSolar",
+      "model": "JKM550M-72HL4-V",
+      "p_max": 550.0,
+      "voc": 49.8,
+      "isc": 14.12,
+      "vmp": 41.8,
+      "imp": 13.17,
+      "temp_coeff_pmax": -0.35,
+      "temp_coeff_voc": -0.28,
+      "temp_coeff_isc": 0.05,
+      "noct": 45.0,
+      "length": 2.278,
+      "width": 1.134,
+      "n_s": 72,
+      "bifacial": true,
+      "bifaciality": 0.7,
+      "cec_name": ""
+    },
+    "Longi 545W": {
+      "name": "Longi 545W",
+      "manufacturer": "Longi",
+      "model": "LR5-72HBD-545M",
+      "p_max": 545.0,
+      "voc": 49.74,
+      "isc": 13.93,
+      "vmp": 41.65,
+      "imp": 13.09,
+      "temp_coeff_pmax": -0.34,
+      "temp_coeff_voc": -0.27,
+      "temp_coeff_isc": 0.05,
+      "noct": 45.0,
+      "length": 2.256,
+      "width": 1.133,
+      "n_s": 72,
+      "bifacial": true,
+      "bifaciality": 0.75,
+      "cec_name": ""
+    },
+    "Canadian 530W": {
+      "name": "Canadian 530W",
+      "manufacturer": "Canadian Solar",
+      "model": "CS3W-530MS",
+      "p_max": 530.0,
+      "voc": 49.5,
+      "isc": 13.74,
+      "vmp": 41.3,
+      "imp": 12.83,
+      "temp_coeff_pmax": -0.35,
+      "temp_coeff_voc": -0.28,
+      "temp_coeff_isc": 0.05,
+      "noct": 45.0,
+      "length": 2.279,
+      "width": 1.134,
+      "n_s": 72,
+      "bifacial": true,
+      "bifaciality": 0.7,
+      "cec_name": ""
+    },
+    "JA Solar 540W": {
+      "name": "JA Solar 540W",
+      "manufacturer": "JA Solar",
+      "model": "JAM72S30-540/MR",
+      "p_max": 540.0,
+      "voc": 49.7,
+      "isc": 13.85,
+      "vmp": 41.5,
+      "imp": 13.01,
+      "temp_coeff_pmax": -0.35,
+      "temp_coeff_voc": -0.28,
+      "temp_coeff_isc": 0.05,
+      "noct": 45.0,
+      "length": 2.279,
+      "width": 1.134,
+      "n_s": 72,
+      "bifacial": true,
+      "bifaciality": 0.7,
+      "cec_name": ""
+    },
+    "Risen 550W": {
+      "name": "Risen 550W",
+      "manufacturer": "Risen Energy",
+      "model": "RSM132-8-550M",
+      "p_max": 550.0,
+      "voc": 49.9,
+      "isc": 14.02,
+      "vmp": 41.7,
+      "imp": 13.19,
+      "temp_coeff_pmax": -0.35,
+      "temp_coeff_voc": -0.28,
+      "temp_coeff_isc": 0.05,
+      "noct": 45.0,
+      "length": 2.279,
+      "width": 1.134,
+      "n_s": 72,
+      "bifacial": true,
+      "bifaciality": 0.7,
+      "cec_name": ""
+    },
+    "REC 450W": {
+      "name": "REC 450W",
+      "manufacturer": "REC Group",
+      "model": "REC450AA Pure-R",
+      "p_max": 450.0,
+      "voc": 38.3,
+      "isc": 15.2,
+      "vmp": 31.9,
+      "imp": 14.12,
+      "temp_coeff_pmax": -0.26,
+      "temp_coeff_voc": -0.24,
+      "temp_coeff_isc": 0.04,
+      "noct": 43.0,
+      "length": 1.896,
+      "width": 1.052,
+      "n_s": 40,
+      "bifacial": false,
+      "bifaciality": 0.0,
+      "cec_name": ""
+    },
+    "SunPower 440W": {
+      "name": "SunPower 440W",
+      "manufacturer": "SunPower",
+      "model": "SPR-MX440",
+      "p_max": 440.0,
+      "voc": 46.2,
+      "isc": 12.1,
+      "vmp": 38.6,
+      "imp": 11.4,
+      "temp_coeff_pmax": -0.29,
+      "temp_coeff_voc": -0.24,
+      "temp_coeff_isc": 0.04,
+      "noct": 41.0,
+      "length": 2.067,
+      "width": 1.046,
+      "n_s": 66,
+      "bifacial": false,
+      "bifaciality": 0.0,
+      "cec_name": ""
+    },
+    "First Solar 460W": {
+      "name": "First Solar 460W",
+      "manufacturer": "First Solar",
+      "model": "Series 6 Plus",
+      "p_max": 460.0,
+      "voc": 47.6,
+      "isc": 12.5,
+      "vmp": 39.2,
+      "imp": 11.73,
+      "temp_coeff_pmax": -0.32,
+      "temp_coeff_voc": -0.28,
+      "temp_coeff_isc": 0.04,
+      "noct": 45.0,
+      "length": 2.008,
+      "width": 1.002,
+      "n_s": 132,
+      "bifacial": false,
+      "bifaciality": 0.0,
+      "cec_name": ""
+    },
+    "Longi Hi-MO X6 570W": {
+      "name": "Longi Hi-MO X6 570W",
+      "manufacturer": "Longi",
+      "model": "LR5-72HTH-570M",
+      "p_max": 570.0,
+      "voc": 51.91,
+      "isc": 14.07,
+      "vmp": 43.76,
+      "imp": 13.03,
+      "temp_coeff_pmax": -0.29,
+      "temp_coeff_voc": -0.23,
+      "temp_coeff_isc": 0.05,
+      "noct": 45.0,
+      "length": 2.278,
+      "width": 1.134,
+      "n_s": 72,
+      "bifacial": true,
+      "bifaciality": 0.8,
+      "cec_name": ""
+    },
+    "Jinko Tiger Neo 580W": {
+      "name": "Jinko Tiger Neo 580W",
+      "manufacturer": "JinkoSolar",
+      "model": "JKM580N-72HL4-BDV",
+      "p_max": 580.0,
+      "voc": 52.31,
+      "isc": 13.95,
+      "vmp": 43.35,
+      "imp": 13.22,
+      "temp_coeff_pmax": -0.29,
+      "temp_coeff_voc": -0.25,
+      "temp_coeff_isc": 0.045,
+      "noct": 45.0,
+      "length": 2.278,
+      "width": 1.134,
+      "n_s": 72,
+      "bifacial": true,
+      "bifaciality": 0.8,
+      "cec_name": ""
+    },
+    "Trina Vertex S+ 550W": {
+      "name": "Trina Vertex S+ 550W",
+      "manufacturer": "Trina Solar",
+      "model": "TSM-DEG19C.20-550M",
+      "p_max": 550.0,
+      "voc": 38.1,
+      "isc": 21.0,
+      "vmp": 31.8,
+      "imp": 17.29,
+      "temp_coeff_pmax": -0.34,
+      "temp_coeff_voc": -0.27,
+      "temp_coeff_isc": 0.05,
+      "noct": 45.0,
+      "length": 2.384,
+      "width": 1.096,
+      "n_s": 60,
+      "bifacial": true,
+      "bifaciality": 0.7,
+      "cec_name": ""
+    }
+  },
+  "inverters": {
+    "Huawei 10k": {
+      "name": "Huawei 10k",
+      "manufacturer": "Huawei",
+      "model": "SUN2000-10KTL-M1",
+      "p_aco_w": 10000.0,
+      "p_dco_w": 10200.0,
+      "v_dco_v": 600.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.984,
+      "cec_name": "Huawei_Technologies_Co___Ltd___SUN2000_10KTL_USL0__240V_",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 17.0,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Huawei 36k": {
+      "name": "Huawei 36k",
+      "manufacturer": "Huawei",
+      "model": "SUN2000-36KTL",
+      "p_aco_w": 36000.0,
+      "p_dco_w": 37400.0,
+      "v_dco_v": 720.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.986,
+      "cec_name": "Huawei_Technologies_Co___Ltd___SUN2000_36KTL_US",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 51.94444444444444,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Huawei 40k": {
+      "name": "Huawei 40k",
+      "manufacturer": "Huawei",
+      "model": "SUN2000-40KTL",
+      "p_aco_w": 40000.0,
+      "p_dco_w": 41400.0,
+      "v_dco_v": 720.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.986,
+      "cec_name": "Huawei_Technologies_Co___Ltd___SUN2000_40KTL_US",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 57.5,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Huawei 100k": {
+      "name": "Huawei 100k",
+      "manufacturer": "Huawei",
+      "model": "SUN2000-100KTL-H0",
+      "p_aco_w": 100000.0,
+      "p_dco_w": 103000.0,
+      "v_dco_v": 800.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1500.0,
+      "efficiency": 0.987,
+      "cec_name": "Huawei_Technologies_Co___Ltd___SUN2000_100KTL_USH0__800V_",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 500.0,
+          "v_max_v": 1500.0,
+          "i_max_a": 128.75,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "SMA 10k": {
+      "name": "SMA 10k",
+      "manufacturer": "SMA",
+      "model": "Sunny Boy 10.0",
+      "p_aco_w": 10000.0,
+      "p_dco_w": 10500.0,
+      "v_dco_v": 345.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1000.0,
+      "efficiency": 0.985,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 800.0,
+          "i_max_a": 30.434782608695652,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "SMA 40k": {
+      "name": "SMA 40k",
+      "manufacturer": "SMA",
+      "model": "Sunny Tripower 40.0",
+      "p_aco_w": 40000.0,
+      "p_dco_w": 41500.0,
+      "v_dco_v": 630.0,
+      "vdcmin_v": 320.0,
+      "vdcmax_v": 1000.0,
+      "efficiency": 0.986,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 320.0,
+          "v_max_v": 800.0,
+          "i_max_a": 65.87301587301587,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "SMA 100k": {
+      "name": "SMA 100k",
+      "manufacturer": "SMA",
+      "model": "Sunny Tripower CORE2",
+      "p_aco_w": 100000.0,
+      "p_dco_w": 104000.0,
+      "v_dco_v": 800.0,
+      "vdcmin_v": 520.0,
+      "vdcmax_v": 1500.0,
+      "efficiency": 0.987,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 520.0,
+          "v_max_v": 1250.0,
+          "i_max_a": 130.0,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Sungrow 10k": {
+      "name": "Sungrow 10k",
+      "manufacturer": "Sungrow",
+      "model": "SG10RT",
+      "p_aco_w": 10000.0,
+      "p_dco_w": 11000.0,
+      "v_dco_v": 600.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.986,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 18.333333333333332,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Sungrow 40k": {
+      "name": "Sungrow 40k",
+      "manufacturer": "Sungrow",
+      "model": "SG40CX",
+      "p_aco_w": 40000.0,
+      "p_dco_w": 44000.0,
+      "v_dco_v": 800.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1500.0,
+      "efficiency": 0.986,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 500.0,
+          "v_max_v": 1500.0,
+          "i_max_a": 55.0,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Sungrow 100k": {
+      "name": "Sungrow 100k",
+      "manufacturer": "Sungrow",
+      "model": "SG100CX",
+      "p_aco_w": 100000.0,
+      "p_dco_w": 110000.0,
+      "v_dco_v": 800.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1500.0,
+      "efficiency": 0.987,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 500.0,
+          "v_max_v": 1500.0,
+          "i_max_a": 137.5,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "GoodWe 10k": {
+      "name": "GoodWe 10k",
+      "manufacturer": "GoodWe",
+      "model": "GW10K-ET",
+      "p_aco_w": 10000.0,
+      "p_dco_w": 11000.0,
+      "v_dco_v": 600.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1000.0,
+      "efficiency": 0.983,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 850.0,
+          "i_max_a": 18.333333333333332,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "GoodWe 40k": {
+      "name": "GoodWe 40k",
+      "manufacturer": "GoodWe",
+      "model": "GW40K-MT",
+      "p_aco_w": 40000.0,
+      "p_dco_w": 44000.0,
+      "v_dco_v": 720.0,
+      "vdcmin_v": 250.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.985,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 250.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 61.111111111111114,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "GoodWe 100k": {
+      "name": "GoodWe 100k",
+      "manufacturer": "GoodWe",
+      "model": "GW100K-HT",
+      "p_aco_w": 100000.0,
+      "p_dco_w": 110000.0,
+      "v_dco_v": 800.0,
+      "vdcmin_v": 500.0,
+      "vdcmax_v": 1500.0,
+      "efficiency": 0.986,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 500.0,
+          "v_max_v": 1500.0,
+          "i_max_a": 137.5,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Solis 10k": {
+      "name": "Solis 10k",
+      "manufacturer": "Solis",
+      "model": "Solis-10K-5G",
+      "p_aco_w": 10000.0,
+      "p_dco_w": 11000.0,
+      "v_dco_v": 600.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1000.0,
+      "efficiency": 0.982,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 850.0,
+          "i_max_a": 18.333333333333332,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Solis 40k": {
+      "name": "Solis 40k",
+      "manufacturer": "Solis",
+      "model": "Solis-40K-5G",
+      "p_aco_w": 40000.0,
+      "p_dco_w": 44000.0,
+      "v_dco_v": 720.0,
+      "vdcmin_v": 250.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.985,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 250.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 61.111111111111114,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Solis 100k": {
+      "name": "Solis 100k",
+      "manufacturer": "Solis",
+      "model": "Solis-100K-5G",
+      "p_aco_w": 100000.0,
+      "p_dco_w": 110000.0,
+      "v_dco_v": 800.0,
+      "vdcmin_v": 500.0,
+      "vdcmax_v": 1500.0,
+      "efficiency": 0.986,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 500.0,
+          "v_max_v": 1500.0,
+          "i_max_a": 137.5,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Solplanet ASW10kH-T3-O": {
+      "name": "Solplanet ASW10kH-T3-O",
+      "manufacturer": "Solplanet",
+      "model": "ASW10kH-T3-O",
+      "p_aco_w": 10000.0,
+      "p_dco_w": 11000.0,
+      "v_dco_v": 600.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1000.0,
+      "efficiency": 0.986,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 18.333333333333332,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Solplanet ASW36K-LT-G3": {
+      "name": "Solplanet ASW36K-LT-G3",
+      "manufacturer": "Solplanet",
+      "model": "ASW36K-LT-G3",
+      "p_aco_w": 36000.0,
+      "p_dco_w": 39600.0,
+      "v_dco_v": 630.0,
+      "vdcmin_v": 160.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.984,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 180.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 62.857142857142854,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Solplanet ASW40K-LT-G3": {
+      "name": "Solplanet ASW40K-LT-G3",
+      "manufacturer": "Solplanet",
+      "model": "ASW40K-LT-G3",
+      "p_aco_w": 40000.0,
+      "p_dco_w": 44000.0,
+      "v_dco_v": 630.0,
+      "vdcmin_v": 160.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.984,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 180.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 69.84126984126983,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Solplanet ASW50K-LT-G2": {
+      "name": "Solplanet ASW50K-LT-G2",
+      "manufacturer": "Solplanet",
+      "model": "ASW50K-LT-G2",
+      "p_aco_w": 50000.0,
+      "p_dco_w": 55000.0,
+      "v_dco_v": 630.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.986,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 87.3015873015873,
+          "parallel_strings_max": 10
+        }
+      ]
+    },
+    "Solplanet ASW100K-LT": {
+      "name": "Solplanet ASW100K-LT",
+      "manufacturer": "Solplanet",
+      "model": "ASW100K-LT",
+      "p_aco_w": 100000.0,
+      "p_dco_w": 110000.0,
+      "v_dco_v": 630.0,
+      "vdcmin_v": 200.0,
+      "vdcmax_v": 1100.0,
+      "efficiency": 0.978,
+      "cec_name": "",
+      "mppt_inputs": [
+        {
+          "index": 1,
+          "strings": [],
+          "v_min_v": 200.0,
+          "v_max_v": 1000.0,
+          "i_max_a": 174.6031746031746,
+          "parallel_strings_max": 10
+        }
+      ]
+    }
+  }
+}
